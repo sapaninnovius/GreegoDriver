@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bugsnag:bugsnag-android-ndk-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bugsnag-android-ndk-1.2.0.aar/788b84ea2a88a55fde5c41d5576ec31a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bugsnag-android-ndk-1.2.0.aar/788b84ea2a88a55fde5c41d5576ec31a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
